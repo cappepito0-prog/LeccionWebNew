@@ -14,3 +14,17 @@ body {
     text-align: center;
     border-radius: 10px;
 }
+/* Título */
+h1 {
+    color: #111;
+    margin-bottom: 10px;
+}
+
+/* Subtítulos */
+h2 {
+    color: #444;
+}
+
+h3 {
+    color: #777;
+}
